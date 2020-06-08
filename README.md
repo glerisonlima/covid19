@@ -45,6 +45,12 @@ yarn run start
 
 * Github: [@glerisonlima](https://github.com/glerisonlima)
 
+![covid19-telaPrincipal](https://user-images.githubusercontent.com/13289584/84075076-e680f680-a9a9-11ea-99c6-db1e4d6ae114.png)
+
+![covid19-telaPreventions](https://user-images.githubusercontent.com/13289584/84075144-07e1e280-a9aa-11ea-8a92-9a7488af8285.png)
+
+![covid19-telaCasos](https://user-images.githubusercontent.com/13289584/84075182-15976800-a9aa-11ea-9095-53665e307a4a.png)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/glerisonlima/covid19/issues). You can also take a look at the [contributing guide](https://github.com/glerisonlima/covid19/blob/master/CONTRIBUTING.md).
