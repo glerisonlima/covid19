@@ -1,6 +1,23 @@
 {
-  "name": "learn-starter",
+  "name": "Covid-19",
   "version": "0.1.0",
+  "description": "Sistema realizado no teste de emprego na empresa MeuTudo.",
+  "author": "Glerison Lima",
+  "license": "MIT",
+  "homepage": "https://covide19-8hx6p7mbm.now.sh/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glerisonlima/covid19.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glerisonlima/covid19/issues"
+  },
+  "engines": {
+    "react": "16.13.1",
+    "nextjs": "9.3.5",
+    "styled-components": "5.1.1",
+    "react-chartjs-2": "2.9.0"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
